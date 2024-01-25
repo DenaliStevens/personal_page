@@ -1,0 +1,26 @@
+
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - Old Resume.pdf
+
+website:
+  title: "Denali Stevens"
+  description: "Attempted Personal Page"
+  open-graph:
+    locale: en_US
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Papers"
+        href: papers
+      - text: "Presentations"
+        href: presentations
+format:
+  html:
+    theme: journal
+    
+    
+    

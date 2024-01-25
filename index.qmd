@@ -1,0 +1,17 @@
+---
+title: "Denali Stevens"
+image: avatar.pdf
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/denali-stevens-841b0720a/"
+    - text: Resume
+      url: "Old Resume.pdf"
+comments: false
+---
+
+
+I'm Denali Stevens. I'm a senior majoring in Data Science at [St. Lawrence University](https://www.stlawu.edu/){target="_blank"} in Canton, New York. 
+
+
